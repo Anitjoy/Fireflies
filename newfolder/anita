@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.relative {
+  position: relative;
+  left: 400px;
+ 
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+body {
+  background-image: url('https://img.etimg.com/thumb/msid-79812978,width-300,imgsize-127871,,resizemode-4,quality-100/gifts-getty.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+
+<h2>Lets get started!!</h2>
+<div class="relative">
+email
+
+</div>
+<div class="relative">
+username
+
+</div>
+<div class="relative">
+password
+
+</div>
+
+
+
+
+
+</body>
+</html>
